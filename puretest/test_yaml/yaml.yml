@@ -1,0 +1,9 @@
+url:
+    http://httpbin.org
+params:
+    - a
+    - b
+    - c
+data:
+    name: zhangsan
+    age: 20
