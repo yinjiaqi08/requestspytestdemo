@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/requests+pytestdemo.iml" filepath="$PROJECT_DIR$/.idea/requests+pytestdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/requestspytestdemo.iml" filepath="$PROJECT_DIR$/.idea/requestspytestdemo.iml" />
     </modules>
   </component>
 </project>

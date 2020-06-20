@@ -1,3 +1,5 @@
+
+### pytest
 - 在命令行执行pytest，会运行当前文件夹及子文件夹中的测试用例
 - 在命令行执行pytest  文件名，会运行该文件中的测试用例
 - pytest -s   可以打印print的内容
@@ -5,6 +7,11 @@
 - 参考博客地址：https://www.cnblogs.com/dangkai/p/10937762.html
 - 接口自动化框架博客：https://www.jianshu.com/p/e31c54bf15ee
 
+### pycharm和github
+- 在左侧文件树中
+  - 有修改的---蓝色
+  - 新添加的---绿色
+  - 
 
 
 ### yaml
